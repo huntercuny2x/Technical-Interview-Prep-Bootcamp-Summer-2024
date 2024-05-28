@@ -53,7 +53,7 @@ that far. Whether it runs or not, just submit what you have.
 ### Week 1 (05/28 -> 05/30)
 
 05/28 (Tues)(week1-day1):
-* Course logistics: * Interview prep slides: [intro slide](https://docs.google.com/presentation/d/1HxYDPJ9DJlKNy_gWoWs1IxQDlA36q1EI-9gavfyxdTg/edit#slide=id.p) and [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E)
+* Course logistics: [intro slide](https://docs.google.com/presentation/d/1HxYDPJ9DJlKNy_gWoWs1IxQDlA36q1EI-9gavfyxdTg/edit#slide=id.p) and [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E)
 <br>
 
 05/29 (Wed)(Week1-day2):
