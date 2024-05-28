@@ -59,6 +59,6 @@ that far. Whether it runs or not, just submit what you have.
 05/29 (Wed)(Week1-day2):
 * [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
 * Mock interview in Class
-* Homework: P2p1 solution reading
+* Homework: P2P1 solution reading
 
 
