@@ -53,10 +53,12 @@ that far. Whether it runs or not, just submit what you have.
 ### Week 1 (05/28 -> 05/30)
 
 05/28 (Tues)(week1-day1):
-<!-- * Topics of the day: Introduction, Maps -->
-* Course logistics: * Interview prep slides: [intro slide](https://docs.google.com/presentation/d/1HxYDPJ9DJlKNy_gWoWs1IxQDlA36q1EI-9gavfyxdTg/edit#slide=id.p) and [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E) and [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
-<!-- * Problems covered: [Contains Duplicates](https://leetcode.com/problems/contains-duplicate/)
+* Course logistics: [intro slide](https://docs.google.com/presentation/d/1HxYDPJ9DJlKNy_gWoWs1IxQDlA36q1EI-9gavfyxdTg/edit#slide=id.p) and [Proactive Communication](https://drive.google.com/open?id=1JnOmY-O1lBDT_lRfCodLAURgY_2tEc9i1cRzqhba_-E)
+<br>
 
-*Homework: Leetcode [Valid Anagrams](https://leetcode.com/problems/valid-anagram/), Please join discord server,* -->
+05/29 (Wed)(Week1-day2):
+* [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
+* Mock interview in Class
+* Homework: P2P1 solution reading
 
 
