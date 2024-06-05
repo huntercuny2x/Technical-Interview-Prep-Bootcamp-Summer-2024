@@ -60,21 +60,27 @@ that far. Whether it runs or not, just submit what you have.
 * [Algorithm Design](https://drive.google.com/open?id=1tC0INmICkZ68ODaRQL92oFkV04XIp2_1K68Ow7W8Nl4)
 * Mock interview in Class
 * Homework: P2P1 solution reading
+<br>
 
 05/30 (Thurs)(Week1-day3):
 * Initial Assessment
-* P2P1 
+* P2P1
+<br> 
 
 06/03 (Mon)(Week2-day1):
 * Initial Assessment
 * P2P1 
+<br>
 
 06/04 (Tues)(Week2-day2):
 * Going over initial assessment
+<br>
   
 06/05 (Wed)(Week2-day3)
 * Topics Big O, Hash Maps
 * Problems: [2sum](https://leetcode.com/problems/two-sum/description/), [2sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/), [3sum](https://leetcode.com/problems/3sum/description/)
+<br>
 
 06/06 (Thurs)(Week2-day4)
 * P2P2
+<br>
