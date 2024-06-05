@@ -75,3 +75,6 @@ that far. Whether it runs or not, just submit what you have.
 06/05 (Wed)(Week2-day3)
 * Topics Big O, Hash Maps
 * Problems: [2sum](https://leetcode.com/problems/two-sum/description/), [2sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/), [3sum](https://leetcode.com/problems/3sum/description/)
+
+06/06 (Thurs)(Week2-day4)
+* P2P2
