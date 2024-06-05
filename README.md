@@ -61,4 +61,17 @@ that far. Whether it runs or not, just submit what you have.
 * Mock interview in Class
 * Homework: P2P1 solution reading
 
+05/30 (Thurs)(Week1-day3):
+* Initial Assessment
+* P2P1 
 
+06/03 (Mon)(Week2-day1):
+* Initial Assessment
+* P2P1 
+
+06/04 (Tues)(Week2-day2):
+* Going over initial assessment
+  
+06/05 (Wed)(Week2-day3)
+* Topics Big O, Hash Maps
+* Problems: [2sum](https://leetcode.com/problems/two-sum/description/), [2sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/), [3sum](https://leetcode.com/problems/3sum/description/)
