@@ -84,3 +84,8 @@ that far. Whether it runs or not, just submit what you have.
 06/06 (Thurs)(Week2-day4)
 * P2P2
 <br>
+
+06/10 (Mon)(Week3-day1)
+* Big O notation see slides: [slides](https://docs.google.com/presentation/d/1IWTae8WKRWPVQwRZd4HFyScnBESiECZAnfh4gb_tzvQ/edit#slide=id.p)
+<br>
+
