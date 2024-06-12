@@ -89,3 +89,9 @@ that far. Whether it runs or not, just submit what you have.
 * Big O notation see slides: [slides](https://docs.google.com/presentation/d/1IWTae8WKRWPVQwRZd4HFyScnBESiECZAnfh4gb_tzvQ/edit#slide=id.p)
 <br>
 
+06/11 (Tues)(Week3-day2)
+* Sliding Window: [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/), [longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+<br>
+
+
+
