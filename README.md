@@ -94,4 +94,12 @@ that far. Whether it runs or not, just submit what you have.
 <br>
 
 
+06/12 (Wed)(Week3-day3)
+* Linked Lists: [Reverse List](https://leetcode.com/problems/reverse-linked-list/description/), [Merge Two List](https://leetcode.com/problems/merge-two-sorted-lists/description/), [Remove Nth From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+<br>
+
+06/13 (Thurs)(Week3-day4)
+* P2P3 
+<br>
+
 
