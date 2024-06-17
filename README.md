@@ -77,7 +77,7 @@ that far. Whether it runs or not, just submit what you have.
 <br>
   
 06/05 (Wed)(Week2-day3)
-* Topics Big O, Hash Maps
+* Topics Big O, Hash Maps, two pointers
 * Problems: [2sum](https://leetcode.com/problems/two-sum/description/), [2sum 2](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/), [3sum](https://leetcode.com/problems/3sum/description/)
 <br>
 
@@ -102,4 +102,6 @@ that far. Whether it runs or not, just submit what you have.
 * P2P3 
 <br>
 
-
+06/17 (Mon)(Week4-day1)
+* Binary Search and Trees : [search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), [invert tree](https://leetcode.com/problems/invert-binary-tree/description/), [maximum depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1119121215/) 
+<br>
