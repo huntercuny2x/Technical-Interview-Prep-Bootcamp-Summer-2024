@@ -111,5 +111,5 @@ that far. Whether it runs or not, just submit what you have.
 <br>
 
 06/25 (Tues)(Week5-day2)
-* Binary Search Trees : [valid binary search tree](https://leetcode.com/problems/validate-binary-search-tree/description/), [lowest common ancestor of binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
+* Binary Search Trees : [valid binary search tree](https://leetcode.com/problems/validate-binary-search-tree/description/), [lowest common ancestor of binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/), [lowest common ancestor of binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
 <br>
