@@ -107,7 +107,7 @@ that far. Whether it runs or not, just submit what you have.
 <br>
 
 06/24 (Mon)(Week5-day1)
-* Binary Search : [search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), [minimum in rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+* Binary Search : [binary search](https://leetcode.com/problems/binary-search/description/), [search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), [minimum in rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 * <br>
 
 06/25 (Tues)(Week5-day2)
