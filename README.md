@@ -108,7 +108,7 @@ that far. Whether it runs or not, just submit what you have.
 
 06/24 (Mon)(Week5-day1)
 * Binary Search : [binary search](https://leetcode.com/problems/binary-search/description/), [search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), [minimum in rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
-* <br>
+<br>
 
 06/25 (Tues)(Week5-day2)
 * Binary Search Trees : [valid binary search tree](https://leetcode.com/problems/validate-binary-search-tree/description/), [lowest common ancestor of binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
