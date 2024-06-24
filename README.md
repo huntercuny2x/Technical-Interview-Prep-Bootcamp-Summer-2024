@@ -103,5 +103,9 @@ that far. Whether it runs or not, just submit what you have.
 <br>
 
 06/17 (Mon)(Week4-day1)
-* Binary Search and Trees : [search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), [invert tree](https://leetcode.com/problems/invert-binary-tree/description/), [maximum depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1119121215/) 
+* Trees : [invert tree](https://leetcode.com/problems/invert-binary-tree/description/), [maximum depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1119121215/) 
+<br>
+
+06/23 (Mon)(Week5-day1)
+* Binary Search, Binary Search Trees : [search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), [minimum in rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/), [valid binary search tree](https://neetcode.io/problems/valid-binary-search-tree), [lowest common ancestor of binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/)
 <br>
