@@ -67,6 +67,8 @@ that far. Whether it runs or not, just submit what you have.
 * P2P1
 <br> 
 
+
+### Week 2 (06/03 -> 06/06)
 06/03 (Mon)(Week2-day1):
 * Initial Assessment
 * P2P1 
@@ -85,6 +87,8 @@ that far. Whether it runs or not, just submit what you have.
 * P2P2
 <br>
 
+
+### Week 3 (06/10 -> 06/13)
 06/10 (Mon)(Week3-day1)
 * Big O notation see slides: [slides](https://docs.google.com/presentation/d/1IWTae8WKRWPVQwRZd4HFyScnBESiECZAnfh4gb_tzvQ/edit#slide=id.p)
 <br>
@@ -92,7 +96,6 @@ that far. Whether it runs or not, just submit what you have.
 06/11 (Tues)(Week3-day2)
 * Sliding Window: [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/), [longest repeating character replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
 <br>
-
 
 06/12 (Wed)(Week3-day3)
 * Linked Lists: [Reverse List](https://leetcode.com/problems/reverse-linked-list/description/), [Merge Two List](https://leetcode.com/problems/merge-two-sorted-lists/description/), [Remove Nth From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
@@ -102,14 +105,37 @@ that far. Whether it runs or not, just submit what you have.
 * P2P3 
 <br>
 
+
+### Week 4 (06/17 -> 06/20)
 06/17 (Mon)(Week4-day1)
 * Trees : [invert tree](https://leetcode.com/problems/invert-binary-tree/description/), [maximum depth](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1119121215/) 
 <br>
 
+06/18 (Tues)(Week4-day2)
+* Midpoint Assessment
+<br>
+
+06/19 (Wed)(Week4-day3)
+* No school
+<br>
+
+06/20 (Thurs)(Week4-day4)
+* P2P4
+<br>
+
+### Week 5 (06/24 -> 06/27)
 06/24 (Mon)(Week5-day1)
 * Binary Search : [binary search](https://leetcode.com/problems/binary-search/description/), [search in rotated array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/), [minimum in rotated array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 <br>
 
 06/25 (Tues)(Week5-day2)
 * Binary Search Trees : [valid binary search tree](https://leetcode.com/problems/validate-binary-search-tree/description/), [lowest common ancestor of binary search tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/), [lowest common ancestor of binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/)
+<br>
+
+06/26 (Wed)(Week5-day3)
+* P2P5
+<br>
+
+06/27 (Thurs)(Week5-day4)
+* Special Speakers John Cline and Emilie Hsieh
 <br>
