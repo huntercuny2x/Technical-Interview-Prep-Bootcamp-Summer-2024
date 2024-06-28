@@ -137,5 +137,5 @@ that far. Whether it runs or not, just submit what you have.
 <br>
 
 06/27 (Thurs)(Week5-day4)
-* Special Speakers John Cline and Emilie Hsieh
+* Special Speakers John Cline and Emilie Hsieh [slides](https://docs.google.com/presentation/d/1wxxKSP7CUhuoLUYLGVWPXdUeVsycjnvMuQZuwwhphAo/edit#slide=id.g6d7fdfb1aa_0_50)
 <br>
