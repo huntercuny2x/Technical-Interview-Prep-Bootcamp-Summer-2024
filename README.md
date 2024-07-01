@@ -139,3 +139,32 @@ that far. Whether it runs or not, just submit what you have.
 06/27 (Thurs)(Week5-day4)
 * Special Speakers John Cline and Emilie Hsieh [slides](https://docs.google.com/presentation/d/1wxxKSP7CUhuoLUYLGVWPXdUeVsycjnvMuQZuwwhphAo/edit#slide=id.g6d7fdfb1aa_0_50)
 <br>
+
+
+### Week 6 (07/01 -> 07/03)
+07/01 (Mon)(Week6-day1)
+* Heaps [last stone weight](https://leetcode.com/problems/last-stone-weight/description/), [kth largest element](https://leetcode.com/problems/kth-largest-element-in-an-array/description/), [k closest point to origin](https://leetcode.com/problems/k-closest-points-to-origin/submissions/)  
+<br>
+
+07/02 (Tues)(Week6-day2)
+* P2P6 
+<br>
+
+07/03 (Wed)(Week6-day3)
+* Final Assessment
+<br>
+
+### Week 7 (07/08 -> 07/11)
+07/08 (Mon)(Week7-day1)
+* Graphs
+<br>
+
+07/09 (Tues)(Week7-day2)
+* Final Assessment and Midpoint Assessment Review
+* Dynamic Programming
+<br>
+
+07/10 (Wed)(Week7-day3)
+* P2P7
+<br>
+
