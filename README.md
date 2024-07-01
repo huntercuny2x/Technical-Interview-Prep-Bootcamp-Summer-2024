@@ -147,7 +147,7 @@ that far. Whether it runs or not, just submit what you have.
 <br>
 
 07/02 (Tues)(Week6-day2)
-* P2P6 
+* P2P6 (remote)
 <br>
 
 07/03 (Wed)(Week6-day3)
