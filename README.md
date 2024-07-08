@@ -156,15 +156,16 @@ that far. Whether it runs or not, just submit what you have.
 
 ### Week 7 (07/08 -> 07/11)
 07/08 (Mon)(Week7-day1)
-* Graphs
+* P2P7
+* [Finance Internships 2025](https://github.com/Ouckah/Summer2025-Internships)
 <br>
 
 07/09 (Tues)(Week7-day2)
 * Final Assessment and Midpoint Assessment Review
-* Dynamic Programming
+* Graphs
 <br>
 
 07/10 (Wed)(Week7-day3)
-* P2P7
+* Dynamic Programming
 <br>
 
